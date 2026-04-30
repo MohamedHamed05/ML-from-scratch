@@ -1,6 +1,6 @@
 import numpy as np
 from collections import Counter
-from supervised.decision_tree import DecisionTree
+from Supervised.decision_tree import DecisionTree
 
 
 class RandomForest:
